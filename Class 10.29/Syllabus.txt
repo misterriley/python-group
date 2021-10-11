@@ -1,0 +1,18 @@
+1.  The input function
+	a. Charlie Brown example
+2.  The open function
+	a. The filesystem's properties
+	b. File modes	 
+	c. Closing
+	d. The "with" keyword - example
+3.  Reading from a file
+	a. read
+	b. readline
+	c. readlines
+4.  Writing to a file
+	a. write function
+	b. append function
+	c. Diary example
+5.  Filechooser
+	a. example
+	b. extended example
