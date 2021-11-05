@@ -10,4 +10,3 @@ while second_int <= max_val:
     first_int = second_int
     second_int = int_sum
 
-
